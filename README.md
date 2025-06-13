@@ -35,14 +35,14 @@ A beautiful and responsive web app that lets you generate QR codes with custom s
 ---
 
 ## 📁 Project Structure
-
+```bash
 QR-Code-Generator/
 │
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS animations and layout
 ├── script.js          # JavaScript functionality
 └── README.md          # You're reading it!
-
+```
 
 ## 📦 How to Use Locally
 
